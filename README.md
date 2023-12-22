@@ -40,3 +40,14 @@ You can customize the script by modifying the `peep` and `msg` variables in the 
 
 ## Disclaimer
 This script is intended for educational purposes and should be used responsibly. Be aware of any terms of service or community guidelines of the messaging platform you are using to avoid any violations.
+
+
+## Support
+
+For any queries, EMAIL ankit.sneh.ug22@google.com
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sneh-55ab64260/)
+
+
+
